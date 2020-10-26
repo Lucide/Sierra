@@ -25,4 +25,5 @@ The project uses both TCP and UDP: the clients set the temperature through TCP, 
 
 ## Curator
 
+* eclipse workspace
 * seems to be unable to bind ports if ran in newer JVMs. It was developed in Java 1.8
